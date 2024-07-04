@@ -6,3 +6,13 @@
     margin:15px;
     padding:10px;
 }
+ol{
+    color:blue;
+    font-size: large;
+    font-style: calc();
+    text-align: left;
+}
+h2{
+    color:brown;
+    
+}
